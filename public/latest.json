@@ -1,5 +1,5 @@
 {
-  "fechaExtraccion": "2026-09-28T16:44:00.567675",
+  "fechaExtraccion": "2026-09-28T16:53:11.387332",
   "totalElements": 1013,
   "registrosExtraidos": 1013,
   "content": [
@@ -16105,7 +16105,7 @@
       "cartelSeq": "00",
       "biddocStartDt": "22/09/2026 07:00",
       "biddocEndDt": null,
-      "openbidDt": "02/10/2026 10:00",
+      "openbidDt": "01/10/2026 10:30",
       "cartelInstCd": "4000042147",
       "releaseYn": "Y",
       "cartelInstNm": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
@@ -24175,12 +24175,12 @@
       "proceTypeDetail": "",
       "proceTypeDetailCd": "02",
       "executorNm": "Jonathan Coto Cordero",
-      "cartelStat": "Objetado",
+      "cartelStat": "En recepción de ofertas",
       "executorId": "H4000042147116",
       "cartelSecretYn": "",
       "contReqYn": "Y",
       "reqPriceAmtYn": null,
-      "cartelStatStr": "Objetado",
+      "cartelStatStr": "En recepción de ofertas",
       "total": 1013
     },
     {
