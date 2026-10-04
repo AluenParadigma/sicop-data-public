@@ -1,5 +1,5 @@
 {
-  "fechaExtraccion": "2026-10-03T13:57:50.497896",
+  "fechaExtraccion": "2026-10-04T13:54:25.197128",
   "totalElements": 1044,
   "registrosExtraidos": 1044,
   "content": [
@@ -25969,12 +25969,12 @@
       "proceTypeDetail": "",
       "proceTypeDetailCd": "01",
       "executorNm": "XINIA HERNANDEZ ARANA",
-      "cartelStat": "En recepción de ofertas",
+      "cartelStat": "Objetado",
       "executorId": "G3007042039004",
       "cartelSecretYn": "",
       "contReqYn": "Y",
       "reqPriceAmtYn": null,
-      "cartelStatStr": "En recepción de ofertas",
+      "cartelStatStr": "Objetado",
       "total": 1044
     },
     {
@@ -26141,7 +26141,7 @@
       "cartelSeq": "00",
       "biddocStartDt": "07/08/2026 19:00",
       "biddocEndDt": null,
-      "openbidDt": "13/10/2026 14:00",
+      "openbidDt": "20/10/2026 14:00",
       "cartelInstCd": "3014042127",
       "releaseYn": "Y",
       "cartelInstNm": "MUNICIPALIDAD DE TALAMANCA",
