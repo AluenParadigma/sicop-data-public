@@ -1,5 +1,5 @@
 {
-  "fechaExtraccion": "2026-10-09T15:15:00.148150",
+  "fechaExtraccion": "2026-10-09T15:28:38.610176",
   "totalElements": 1054,
   "registrosExtraidos": 1054,
   "content": [
@@ -9277,12 +9277,12 @@
       "proceTypeDetail": "",
       "proceTypeDetailCd": "01",
       "executorNm": "KENDER FEDERICO ABARCA GUTIERREZ",
-      "cartelStat": "Objetado",
+      "cartelStat": "En recepción de ofertas",
       "executorId": "G3014042077046",
       "cartelSecretYn": "",
       "contReqYn": "Y",
       "reqPriceAmtYn": null,
-      "cartelStatStr": "Objetado",
+      "cartelStatStr": "En recepción de ofertas",
       "total": 1054
     },
     {
@@ -26323,7 +26323,7 @@
       "cartelSeq": "00",
       "biddocStartDt": "13/08/2026 00:00",
       "biddocEndDt": null,
-      "openbidDt": "09/10/2026 10:00",
+      "openbidDt": "16/10/2026 10:00",
       "cartelInstCd": "4000042147",
       "releaseYn": "Y",
       "cartelInstNm": "CAJA COSTARRICENSE DE SEGURO SOCIAL",
