@@ -1,5 +1,5 @@
 {
-  "fechaExtraccion": "2026-10-12T18:06:41.564524",
+  "fechaExtraccion": "2026-10-12T18:15:27.410276",
   "totalElements": 1028,
   "registrosExtraidos": 1028,
   "content": [
@@ -17727,12 +17727,12 @@
       "proceTypeDetail": "",
       "proceTypeDetailCd": "02",
       "executorNm": "Maricela Sancho Vargas",
-      "cartelStat": "En recepción de ofertas",
+      "cartelStat": "Objetado",
       "executorId": "H4000042147133",
       "cartelSecretYn": "",
       "contReqYn": "Y",
       "reqPriceAmtYn": null,
-      "cartelStatStr": "En recepción de ofertas",
+      "cartelStatStr": "Objetado",
       "total": 1028
     },
     {
