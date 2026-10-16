@@ -1,13 +1,13 @@
 {
   "source": "SICOP Costa Rica",
-  "extracted_at": "2026-10-16T13:25:13.788963",
-  "metadata_generated_at": "2026-10-16T13:25:13.975145+00:00",
-  "total_elements": 1116,
-  "records_extracted": 1116,
-  "csv_records": 1116,
+  "extracted_at": "2026-10-16T13:34:12.620659",
+  "metadata_generated_at": "2026-10-16T13:34:12.786923+00:00",
+  "total_elements": 1113,
+  "records_extracted": 1113,
+  "csv_records": 1113,
   "coverage_complete": true,
   "coverage_percent": 100.0,
   "validation_status": "OK",
-  "sha256_csv": "4e76b896dcfb27d90cad6d9bbb25f12c0d12efb3e0a8be8543baf81348f54f09",
-  "sha256_json": "34e0d5fc644e87875d3454b58b81c0a5859d4527a6073365ec32761624d3593b"
+  "sha256_csv": "c0fa037e80f6c8f834514d383eb0317cf73b81b4c6aa6baaf5af08201e1bf5b6",
+  "sha256_json": "7c5c90668b2b7dd2cc089a8fc37163c21abcfd6dbbef137d703c9feb6bd413e4"
 }
