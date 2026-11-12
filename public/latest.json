@@ -1,5 +1,5 @@
 {
-  "fechaExtraccion": "2026-11-12T16:47:39.236637",
+  "fechaExtraccion": "2026-11-12T16:58:30.018862",
   "totalElements": 952,
   "registrosExtraidos": 952,
   "content": [
@@ -4415,12 +4415,12 @@
       "proceTypeDetail": "",
       "proceTypeDetailCd": "08",
       "executorNm": "LIBIA YANIN ABARCA MORALES",
-      "cartelStat": "En recepción de ofertas",
+      "cartelStat": "Objetado",
       "executorId": "H4000042147529",
       "cartelSecretYn": "",
       "contReqYn": "Y",
       "reqPriceAmtYn": null,
-      "cartelStatStr": "En recepción de ofertas",
+      "cartelStatStr": "Objetado",
       "total": 952
     },
     {
