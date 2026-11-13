@@ -1,5 +1,5 @@
 {
-  "fechaExtraccion": "2026-11-13T16:39:53.979000",
+  "fechaExtraccion": "2026-11-13T16:47:53.176926",
   "totalElements": 975,
   "registrosExtraidos": 975,
   "content": [
@@ -2985,12 +2985,12 @@
       "proceTypeDetail": "",
       "proceTypeDetailCd": "01",
       "executorNm": "DIEGO ALEJANDRO ZUÑIGA MORA",
-      "cartelStat": "En recepción de ofertas",
+      "cartelStat": "Objetado",
       "executorId": "G2100042004076",
       "cartelSecretYn": "",
       "contReqYn": "Y",
       "reqPriceAmtYn": null,
-      "cartelStatStr": "En recepción de ofertas",
+      "cartelStatStr": "Objetado",
       "total": 975
     },
     {
@@ -17779,12 +17779,12 @@
       "proceTypeDetail": "",
       "proceTypeDetailCd": "01",
       "executorNm": "VIVIAN BARRANTES JIMENEZ",
-      "cartelStat": "Objetado",
+      "cartelStat": "En recepción de ofertas",
       "executorId": "G301404209292098",
       "cartelSecretYn": "",
       "contReqYn": "Y",
       "reqPriceAmtYn": null,
-      "cartelStatStr": "Objetado",
+      "cartelStatStr": "En recepción de ofertas",
       "total": 975
     },
     {
